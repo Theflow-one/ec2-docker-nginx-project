@@ -27,7 +27,7 @@ Identified and fixed a Docker Credential vulnerability by moving from plain-text
 Performed security scanning using Docker Scout, after downloading the correct pluggings to terminal and having the correct credentials.
 
 AI Collaboration Disclosure
-I want to be transparent that I used AI (Gemini) as a technical assistant for this project.
+I want to be transparent that I used AI, which as a technical assistant for this project.
 
 The AI's Role: Provided explanations for complex topics like CIDR notation and helped format my deployment script.
 
